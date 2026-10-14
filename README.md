@@ -2,6 +2,8 @@
 
 Relax, have some fun and play **Space Invaders** — the classic 2D arcade game as a single, self-contained HTML page. No build step, no dependencies, no assets; it runs fully offline.
 
+Run it straight from [here](https://etnt.github.io/space-invaders/)
+
 ## How to Run
 
 Open `index.html` in any modern browser — double-click it, or:
